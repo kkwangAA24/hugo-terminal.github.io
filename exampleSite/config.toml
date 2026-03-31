@@ -1,4 +1,4 @@
-baseurl = "https://github.com/kkwangAA24/hugo-terminal.github.io"
+baseurl = "https://kkwangAA24.github.io/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
